@@ -1,17 +1,35 @@
-<h1 align="center">Hello, world. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
+<h1 align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2500&pause=500&center=true&vCenter=true&width=200&lines=Hi!;I'm+Ryan." alt="Typing SVG" /></a>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">
+</h1>
 
-### 🤖 AI Scientist & Condition Monitoring Specialist
+<h2 align="center">🤖 AI Scientist & Condition Monitoring Specialist</h2>
 
-PhD in Mechanical Engineering | [University of Pretoria](https://www.up.ac.za/mechanical-and-aeronautical-engineering);<br>
-AI Scientist | [Kriterion](https://kriterion.ai/);<br>
-Intermittent Blogger | [Sjmelck](https://ryanbalshaw.github.io/sjmelck_pages/)
+<p align="center">
+  <a href="https://www.linkedin.com/in/yourprofile"><img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="40" alt="LinkedIn"></a>
+</p>
 
-- 🔬 Expertise: Unsupervised learning, vibration-based condition monitoring, predictive maintenance
-- 🚀 Focus: Applying AI to industrial challenges
-- 💻 Tech: Python, TensorFlow, PyTorch, Google Cloud, SQL, Kubernetes
-- 📚 Continuous learner in condition monitoring and AI
+<hr>
 
-### 🛠️ Primary Tools & Technologies : 
+<ul>
+  <li>PhD in Mechanical Engineering | <a href="https://www.up.ac.za/mechanical-and-aeronautical-engineering">University of Pretoria</a></li>
+  <li>AI Scientist | <a href="https://kriterion.ai/">Kriterion</a></li>
+  <li>Intermittent Blogger | <a href="https://ryanbalshaw.github.io/sjmelck_pages/">Sjmelck</a></li>
+</ul>
+
+<hr>
+
+<h3>👨‍💻 Professional Overview</h3>
+<ul>
+  <li>🔬 <strong>Expertise:</strong> Unsupervised learning, vibration-based condition monitoring, predictive maintenance</li>
+  <li>🚀 <strong>Focus:</strong> Applying AI to predictive maintenance</li>
+  <li>💻 <strong>Tech:</strong> Python, TensorFlow, PyTorch, Google Cloud, SQL, Kubernetes</li>
+  <li>📚 <strong>Continuous learner</strong> in condition monitoring and AI</li>
+</ul>
+
+<hr>
+
+<h3>🛠️ Primary Tools & Technologies</h3>
 
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
@@ -21,14 +39,18 @@ Intermittent Blogger | [Sjmelck](https://ryanbalshaw.github.io/sjmelck_pages/)
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" title="Kubernetes" alt="Kubernetes" width="40" height="40"/>&nbsp;
 </p>
 
-### 💻 OS & Hardware : 
+<hr>
+
+<h3>💻 OS & Hardware</h3>
 
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" title="Arch Linux" alt="Arch Linux" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg" title="Raspberry Pi" alt="Raspberry Pi" width="40" height="40"/>&nbsp;
 </p>
 
-### 📊 GitHub Stats : 
+<hr>
+
+<h3>📊 GitHub Stats</h3>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=RyanBalshaw&theme=dracula&show_icons=true&rank_icon=github" />
@@ -37,7 +59,9 @@ Intermittent Blogger | [Sjmelck](https://ryanbalshaw.github.io/sjmelck_pages/)
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=RyanBalshaw&layout=compact&langs_count=8&card_width=320&theme=dracula" />
 </a>
 
-### 🐍 Contribution Graph : 
+<hr>
+
+<h3>🐍 Contribution Graph</h3>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RyanBalshaw/RyanBalshaw/snake-contribution-graph/github-contribution-grid-snake-dark.svg" />
@@ -45,6 +69,12 @@ Intermittent Blogger | [Sjmelck](https://ryanbalshaw.github.io/sjmelck_pages/)
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
 
-### ✍️ Recent Blog Posts : 
-- [The Fourier transform: Explained](https://ryanbalshaw.github.io/sjmelck_pages/blog/the-fourier-transform-explained/)
-- [Time synchronous averaging and computed order tracking: Explained](https://ryanbalshaw.github.io/sjmelck_pages/blog/the-tsa-and-cot-explained/)
+<hr>
+
+<h3>✍️ Recent Blog Posts</h3>
+<ul>
+  <li><a href="https://ryanbalshaw.github.io/sjmelck_pages/blog/the-fourier-transform-explained/">The Fourier transform: Explained</a></li>
+  <li><a href="https://ryanbalshaw.github.io/sjmelck_pages/blog/the-tsa-and-cot-explained/">Time synchronous averaging and computed order tracking: Explained</a></li>
+</ul>
+
+<p align="right"><img src="https://komarev.com/ghpvc/?username=RyanBalshaw&style=flat-square&color=blue" alt="Profile views counter"></p>
