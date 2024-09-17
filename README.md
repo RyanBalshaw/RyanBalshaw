@@ -40,8 +40,8 @@ Intermittent Blogger | [Sjmelck](https://ryanbalshaw.github.io/sjmelck_pages/)
 ### 🐍 Contribution Graph : 
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RyanBalshaw/RyanBalshaw/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RyanBalshaw/RyanBalshaw/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RyanBalshaw/RyanBalshaw/snake-contribution-graph/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RyanBalshaw/RyanBalshaw/snake-contribution-graph/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
 
