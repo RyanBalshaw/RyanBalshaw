@@ -1,9 +1,9 @@
 <p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50">
   <a href="https://git.io/typing-svg">
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=2500&pause=400&color=BD93F9&background=282A36&center=true&vCenter=true&width=200&lines=Hey!;I'm+Ryan." alt="Typing SVG" />
-    <img src="https://media.giphy.com/media/14k9BhtEZaMJGw/giphy.gif" width="80">
   </a>
+  <img src="https://media.giphy.com/media/14k9BhtEZaMJGw/giphy.gif" width="80">
 </p>
 
 <h2 align="center">🤖 AI Scientist & Condition Monitoring Specialist</h2>
