@@ -76,7 +76,7 @@
 
 <h3>✍️ Recent Blog Posts</h3>
 <ul>
-  <li><a href="https://ryanbalshaw.github.io/sjmelck_pages/blog/logistic-regression/)">Logistic regression from the ground up</a></li>
+  <li><a href="https://ryanbalshaw.github.io/sjmelck_pages/blog/logistic-regression/">Logistic regression from the ground up</a></li>
   <li><a href="https://ryanbalshaw.github.io/sjmelck_pages/blog/the-fourier-transform-explained/">The Fourier transform: Explained</a></li>
   <li><a href="https://ryanbalshaw.github.io/sjmelck_pages/blog/the-tsa-and-cot-explained/">Time synchronous averaging and computed order tracking: Explained</a></li>
 </ul>
