@@ -40,10 +40,10 @@ I'm an AI Scientist at [Kriterion](https://kriterion.ai/) working on applying ma
 ### 📊 GitHub Stats
 
 <a href="https://github.com/stats-organization/github-stats-extended">
-  <img height="150" align="center" src="https://github-stats-extended.vercel.app/api?username=RyanBalshaw&theme=dracula&show_icons=true&rank_icon=github" alt="GitHub stats" />
+  <img height="150" align="center" src="https://github-stats-extended.vercel.app/api?username=RyanBalshaw&show_icons=true&rank_icon=github&bg_color=282A36&title_color=BD93F9&text_color=F8F8F2&icon_color=8BE9FD&border_color=BD93F9" alt="GitHub stats" />
 </a>
 <a href="https://github.com/stats-organization/github-stats-extended">
-  <img height="150" align="center" src="https://github-stats-extended.vercel.app/api/top-langs?username=RyanBalshaw&layout=compact&langs_count=8&card_width=320&theme=dracula" alt="Top languages" />
+  <img height="150" align="center" src="https://github-stats-extended.vercel.app/api/top-langs?username=RyanBalshaw&layout=compact&langs_count=8&card_width=320&bg_color=282A36&title_color=BD93F9&text_color=F8F8F2&border_color=BD93F9" alt="Top languages" />
 </a>
 
 ### 🐍 Contribution Graph
