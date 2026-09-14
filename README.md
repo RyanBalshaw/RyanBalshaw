@@ -30,7 +30,7 @@ I'm an AI Scientist at [Kriterion](https://kriterion.ai/) working on applying ma
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" title="Google Cloud" alt="Google Cloud" width="40" height="40"/>&nbsp;
 <img src="https://cdn.simpleicons.org/googlebigquery/669DF6" title="BigQuery" alt="BigQuery" width="40" height="40"/>&nbsp;
-<img src="https://cdn.simpleicons.org/dbt/FF694B" title="dbt" alt="dbt" width="40" height="40"/>&nbsp;
+<img src="https://api.iconify.design/simple-icons:dbt.svg?color=%23FF694B" title="dbt" alt="dbt" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" title="Kubernetes" alt="Kubernetes" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" title="Arch Linux" alt="Arch Linux" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg" title="Raspberry Pi" alt="Raspberry Pi" width="40" height="40"/>&nbsp;
@@ -40,11 +40,11 @@ I'm an AI Scientist at [Kriterion](https://kriterion.ai/) working on applying ma
 
 ### 📊 GitHub Stats
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="150" align="center" src="https://github-readme-stats.vercel.app/api?username=RyanBalshaw&theme=dracula&show_icons=true&rank_icon=github" alt="GitHub stats" />
+<a href="https://github.com/stats-organization/github-stats-extended">
+  <img height="150" align="center" src="https://github-stats-extended.vercel.app/api?username=RyanBalshaw&theme=dracula&show_icons=true&rank_icon=github" alt="GitHub stats" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="150" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=RyanBalshaw&layout=compact&langs_count=8&card_width=320&theme=dracula" alt="Top languages" />
+<a href="https://github.com/stats-organization/github-stats-extended">
+  <img height="150" align="center" src="https://github-stats-extended.vercel.app/api/top-langs?username=RyanBalshaw&layout=compact&langs_count=8&card_width=320&theme=dracula" alt="Top languages" />
 </a>
 
 ### 🐍 Contribution Graph
