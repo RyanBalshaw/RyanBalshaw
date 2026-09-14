@@ -10,7 +10,6 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ryan-balshaw/"><img src="https://img.shields.io/badge/LinkedIn-BD93F9?style=for-the-badge&logo=linkedin&logoColor=282A36" alt="LinkedIn"></a>
-  <a href="https://x.com/ryan_balshaw"><img src="https://img.shields.io/badge/X-BD93F9?style=for-the-badge&logo=x&logoColor=282A36" alt="X"></a>
   <a href="https://orcid.org/0000-0001-5684-194X"><img src="https://img.shields.io/badge/ORCID-BD93F9?style=for-the-badge&logo=orcid&logoColor=282A36" alt="ORCID"></a>
   <a href="https://ryanbalshaw.github.io/sjmelck_pages/"><img src="https://img.shields.io/badge/Blog-BD93F9?style=for-the-badge&logo=hugo&logoColor=282A36" alt="Sjmelck Blog"></a>
 </p>
