@@ -18,7 +18,7 @@
 
 ### About me
 
-I'm currently working as an AI Scientist at [Kriterion](https://kriterion.ai/) working on applying machine learning to predictive maintenance. I hold a PhD in Mechanical Engineering from the [University of Pretoria](https://www.up.ac.za/mechanical-and-aeronautical-engineering), with a focus on unsupervised learning and vibration-based condition monitoring. I also write intermittently on [Sjmelck](https://ryanbalshaw.github.io/sjmelck_pages/) about engineering, computing, and everything in between.
+I'm an AI Scientist at [Kriterion](https://kriterion.ai/) working on applying machine learning to predictive maintenance. I hold a PhD in Mechanical Engineering from the [University of Pretoria](https://www.up.ac.za/mechanical-and-aeronautical-engineering), with a focus on unsupervised learning and vibration-based condition monitoring. I also write intermittently on [Sjmelck](https://ryanbalshaw.github.io/sjmelck_pages/) about engineering, computing, and everything in between.
 
 ### 🛠️ Tools
 
